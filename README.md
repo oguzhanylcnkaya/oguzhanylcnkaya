@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :mailbox: oguzhanyalcinkayaa@gmail.com
-- :mortar_board: Sakarya Universtiy - Management Information Systems - 2020
+- :mortar_board: Sakarya University - Management Information Systems - 2020
 - 🔭 I am currently working as a junior software developer
 - 🌱 I’m currently learning C#, .Net Core, Javasciprt, Vue.js, Angular
 - 
