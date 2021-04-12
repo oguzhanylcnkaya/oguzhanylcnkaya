@@ -59,8 +59,9 @@
 <img align="left" alt="Oguzhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oguzhanylcnkaya&theme=radical&show_icons=true&hide_border=true">
 
 <br/>
----
 <br/>
+---
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanylcnkaya&layout=compact)](https://github.com/oguzhanylcnkaya/github-readme-stats)
 
