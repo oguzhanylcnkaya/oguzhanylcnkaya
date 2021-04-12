@@ -47,7 +47,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Typescript Nedir? Nasıl Kullanılır?](https://medium.com/kodcular/typescript-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-84d749f3cf09?source=rss-60baeafc1c78------2)
+- [CSS’de Fazla Bilinmeyenler — Box-Reflect](https://oguzhanyalcinkaya.medium.com/cssde-fazla-bilinmeyenler-box-reflect-cf4a91f868ba?source=rss-60baeafc1c78------2)
+- [Gulp.js, Babel ve Webpack Nedir? Nasıl Kullanılır?](https://oguzhanyalcinkaya.medium.com/gulp-js-babel-ve-webpack-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-94ec7427285b?source=rss-60baeafc1c78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
