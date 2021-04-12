@@ -10,10 +10,10 @@
 
 ### Contact with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg">][medium]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/oguzhanylcnkaya)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/oguzhanyalcinkaya/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/oguzhanylcnkaya/)
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg">](https://oguzhanyalcinkaya.medium.com/)
 
 
 <br/>
@@ -30,10 +30,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
-[twitter] : https://twitter.com/oguzhanylcnkaya
-[linkedin] : https://www.linkedin.com/in/oguzhanyalcinkaya/
-[instagram] : https://www.instagram.com/oguzhanylcnkaya/
-[medium] : https://oguzhanyalcinkaya.medium.com/
+<!-- [twitter] : 
+[linkedin] : 
+[instagram] : 
+[medium] :  -->
 
 <!--
 **oguzhanylcnkaya/oguzhanylcnkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
