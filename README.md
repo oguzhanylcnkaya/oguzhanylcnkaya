@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-
-- :mailbox: oguzhanyalcinkayaa@gmail.com
-- :mailbox: oguzhanyalcinkayaa@gmail.com
 - :mortar_board: Sakarya University - Management Information Systems - 2020
-- 🔭 I am currently working as a junior software developer
+- 🔭 I am currently working as a Junior Software Developer
 - 🌱 I’m currently learning C#, .Net Core, Javasciprt, Vue.js, Angular
-
+- ⚡ Fun fact: I love to play guitar
 
 ### Contact with me:
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">](mailto:oguzhanyalcinkayaa@gmail.com)
@@ -27,6 +24,8 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Vue.js" width="26px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
 
 
 <!-- [twitter] : 
