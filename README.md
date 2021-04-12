@@ -9,7 +9,7 @@
 
 <!-- [![Spotify](https://oguzhanylcnkaya.vercel.app/api/spotify)](https://open.spotify.com/user/m8rdxp1pu6m1xzreplzx5p3k5) -->
 
-[<img src="https://https://oguzhanylcnkaya.vercel.app//api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/m8rdxp1pu6m1xzreplzx5p3k5)
+[<img src="https://novatorem-alpha-ten.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
 ### Contact with me:
