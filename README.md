@@ -5,12 +5,6 @@
 - 🌱 I’m currently learning C#, .Net Core, Javasciprt, Vue.js, Angular
 - ⚡ Fun fact: I love to play guitar
 
-### Spotify Playing 🎧
-
-[![Spotify](https://https://novatorem-blond-seven.vercel.app//api/spotify)](https://open.spotify.com/user/m8rdxp1pu6m1xzreplzx5p3k5)
-
-
-
 ### Contact with me:
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">](mailto:oguzhanyalcinkayaa@gmail.com)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/oguzhanylcnkaya)
